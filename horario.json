@@ -1,34 +1,8 @@
 [
-    {   
-        "horario":"segunda",
-        "seg": {
-            "disciplina": "PROGRAMAÇÃO WEB",
-            "disciplina": "REDES DE COMPUTADORES I",
-            "disciplina": "TÓPICOS DE PROGRAMAÇÃO"
-        }
-
+    {
+        "nome":"MANOEL VITOR PAU FERRO SILVA SANTOS"
+    },
+    {
+        "nome":"VITORIA KRAUSS"
     }
 ]
-
-/*
-    "ter": {
-            "disciplina": "BANCO DE DADOS II",
-            "disciplina": "INTR. ADMINISTRAÇÃO",
-            "disciplina": " "
-        },
-        "qua": {
-            "disciplina": "PROGRAMAÇÃO WEB",
-            "disciplina": "ENG.DE SOFTWARE",
-            "disciplina": " "
-        },
-        "qui": {
-            "disciplina": "INTR. ADMINISTRAÇÃO",
-            "disciplina": "BANCO DE DADOS II",
-            "disciplina": "REDES DE COMPUTATORES I"
-        },
-        "sex": {
-            "disciplina": "PROGRAMAÇÃO WEB",
-            "disciplina": "ENG. DE SOFTWARE",
-            "disciplina": "TÓPICOS DE PROGRAMAÇÃO"
-        }
-*/
