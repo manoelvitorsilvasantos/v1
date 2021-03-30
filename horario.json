@@ -1,5 +1,6 @@
 [
-    {
+    {   
+        "horario":"segunda",
         "seg": {
             "disciplina": "PROGRAMAÇÃO WEB",
             "disciplina": "REDES DE COMPUTADORES I",
