@@ -1,11 +1,16 @@
-{
+[
     {
         "seg": {
             "disciplina": "PROGRAMAÇÃO WEB",
             "disciplina": "REDES DE COMPUTADORES I",
             "disciplina": "TÓPICOS DE PROGRAMAÇÃO"
-        },
-        "ter": {
+        }
+
+    }
+]
+
+/*
+    "ter": {
             "disciplina": "BANCO DE DADOS II",
             "disciplina": "INTR. ADMINISTRAÇÃO",
             "disciplina": " "
@@ -25,5 +30,4 @@
             "disciplina": "ENG. DE SOFTWARE",
             "disciplina": "TÓPICOS DE PROGRAMAÇÃO"
         }
-    }
-}
+*/
